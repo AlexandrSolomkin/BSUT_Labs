@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1">
+        <title>1984</title>
+        <author>Джордж Оруэлл</author>
+        <year>1949</year>
+        <genre>Антиутопия</genre>
+        <price>500.00</price>
+    </book>
+    <book id="2">
+        <title>Гарри Поттер</title>
+        <author>Дж. К. Роулинг</author>
+        <year>1997</year>
+        <genre>Фэнтези</genre>
+        <price>600.50</price>
+    </book>
+    <book id="3">
+        <title>Мастер и Маргарита</title>
+        <author>Михаил Булгаков</author>
+        <year>1967</year>
+        <genre>Роман</genre>
+        <price>450.75</price>
+    </book>
+</library>
