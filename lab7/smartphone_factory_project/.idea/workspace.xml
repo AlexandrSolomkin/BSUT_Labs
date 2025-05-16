@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e82643fc-ccfa-4871-a8b3-8c2476f4ec5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BudgetFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BudgetSmartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlagshipFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlagshipSmartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GamingFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GamingSmartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SmartphoneFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SmartphoneFactoryDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jorikvsemaguschi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AlexandrSolomkin/BSUT_Labs",
+    "accountId": "4911c3a2-f0c2-4719-b69e-0943320fded6"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2vD4kNbpzJgGoGyzrIR9d0fVu9V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SmartphoneFactoryDemo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "lab7",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e82643fc-ccfa-4871-a8b3-8c2476f4ec5c" name="Changes" comment="" />
+      <created>1743666454181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743666454181</updated>
+    </task>
+    <servers />
+  </component>
+</project>
